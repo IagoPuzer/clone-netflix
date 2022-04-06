@@ -107,15 +107,16 @@ header nav a:hover {
 
 /*Carrosel de filmes */
 .box-filme{
-    max-width:88%;
-    max-height: 88%;
+    max-width:70%;
+    max-height: 70%;
     transition: .5s ease all;
     margin: auto;
 }
 
 .box-filme:hover{
-    max-width: 90%;
-    max-height: 90%;
+    max-width: 75%;
+    max-height: 75%;
+    
 }
 
 .sub-titulo{
